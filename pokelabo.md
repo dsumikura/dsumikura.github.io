@@ -3,6 +3,11 @@ title: PokeLabo 更新情報
 description: Pokemon Champions ダメージ計算アプリ PokeLabo の更新・修正情報
 ---
 
+<style>
+/* Jekyll テーマが自動挿入するサイト名 h1 を非表示 */
+.markdown-body > h1:first-child { display: none; }
+</style>
+
 # PokeLabo 更新情報
 
 Pokemon Champions 向けダメージ計算アプリ **[PokeLabo](https://apps.apple.com/jp/app/pokelabo/id6762235720)** の更新・修正情報です。
@@ -16,7 +21,7 @@ Pokemon Champions 向けダメージ計算アプリ **[PokeLabo](https://apps.ap
 ## 🔜 近日公開予定
 
 ### v1.0.2（Apple 審査中）
-- 変幻自在・リベロ特性の連続技（つららばり等）でヒット数別ダメージを表示
+- 変幻自在・リベロ特性の連続技（つららばり等)でヒット数別ダメージを表示
 - 変幻自在・とうそうしん特性で、マルチスケイル／ファントムガード持ちの相手に対する「満タン」「満タン以外」両方のダメージを表示
 - イカサマ・ボディプレスで、特性による複数バリアント表示時に EV・ランク・性格の設定が反映されない問題を修正
 - メガシンカ相手のはたきおとすで、本来発動しない「持ち物あり」の 1.5 倍補正が表示される問題を修正
