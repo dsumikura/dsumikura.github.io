@@ -10,3 +10,9 @@ Personal GitHub Pages root.
 ## Apps
 
 - [PokeLabo on App Store](https://apps.apple.com/jp/app/pokelabo/id6762235720)
+
+## Support / お問い合わせ
+
+PokeLabo に関する不具合報告・要望・お問い合わせは X までお願いします:
+
+- [@d_cho623 on X](https://x.com/d_cho623)
