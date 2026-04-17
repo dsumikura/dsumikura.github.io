@@ -5,6 +5,7 @@ Personal GitHub Pages root.
 ## Hosted
 
 - [PokeLabo Privacy Policy](https://dsumikura.github.io/pokelabo-privacy/)
+- [PokeLabo 更新情報](https://dsumikura.github.io/pokelabo)
 - [app-ads.txt](https://dsumikura.github.io/app-ads.txt) (AdMob authorized sellers)
 
 ## Apps
